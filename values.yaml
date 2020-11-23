@@ -13,7 +13,7 @@ image:
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
-namespace: app-ns
+namespace: jyothi
 
 serviceAccount:
   # Specifies whether a service account should be created
